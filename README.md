@@ -1,2 +1,3 @@
 # cse110-test-repo
-lab 1
+
+i love c++ due to its performance and its seemingly limitless capabilities.
