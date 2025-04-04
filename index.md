@@ -5,7 +5,7 @@
 
 # About Me
 
-Grew up on the East Coast, moved to the Bay Area for high school. Currently at **UC San Diego** studying **Computer Science**. 
+Grew up on the East Coast, moved to the Bay Area later on. Currently at **UC San Diego** studying **Computer Science**. 
 
 My favorite quote is from Morgan Housel, the author of *The Psychology of Money*:
 
@@ -19,7 +19,7 @@ If for some reason you'd like to clone this repo, you can do so with the followi
 git clone https://github.com/vishruthb/cse110-test-repo.git
 ```
 
-# Open Source Projects
+# Links
 
 My favorite open source project, as of now, is [Pytorch](https://pytorch.org/).
 
