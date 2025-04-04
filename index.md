@@ -43,4 +43,5 @@ Some honorable mentions:
 
 - [X] CSE 100R
 - [X] CSE 101
+- [X] CSE 105
 - [ ] CSE 110
